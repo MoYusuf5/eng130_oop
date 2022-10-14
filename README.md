@@ -206,4 +206,8 @@ print(info_keys(student_data))
 print(info_values(student_data))
 print(info_items(student_data))
 ```
-
+## OOP Diagram
+- Step 1 : create animal.py as parent
+- Step 2 : create reptile.py as a child to inherit - abstract etc 
+- Step 3 : snake.py & inherit from
+- Step 4 : python_oop.py 
