@@ -16,7 +16,7 @@
 - Troubleshooting is easier (Encapsulation)
 - Productivity - many libraries available 
 
-### animal.py (Parent Class)
+### animal python file (Parent Class)
 ```python
 # create a class called Animal - file-name start with a - class name starts with A
 # add the common attributes/var behaviours/functions
@@ -42,7 +42,7 @@ cat = Animal() # creating an object of this animal class
 # print(cat.breathe()) # calling a method using an object of the Animal class
 # print(cat.eat())
 ```
-### reptile.py 
+### reptile python file
 ```python
 # create a class called Reptile
 # how do we make the Animal class a parent class - how could we inherit fom the Animal class
@@ -65,7 +65,7 @@ smart_reptile = Reptile()
 # print(smart_reptile.breathe())
 # print(smart_reptile.hunt())
 ```
-### snake.py
+### snake python file
 ```python
 from reptile import Reptile
 
